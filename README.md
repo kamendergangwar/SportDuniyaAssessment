@@ -40,4 +40,4 @@ The Responsive News Dashboard is a modern, feature-rich web application built wi
 
 ##### Creditial to Login
 Email : Kamender@gmail.com
-Padd : Engineer
+Pass : Engineer
